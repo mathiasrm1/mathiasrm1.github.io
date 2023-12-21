@@ -5,9 +5,11 @@ categories: [measure theory]
 tags: [measure theory, measurable functions, measurable spaces, borel sets, sigma algebras] #tags always lowercase
 ---
 
-\theoremstyle{definition}
-\newtheorem{definition}{Definition}[section]
+[](raw: \theoremstyle{definition}
+\newtheorem{definition}{Definition}[section])
 
-\begin{definition}[Fibration]
-A fibration is a mapping between two topological spaces that has the homotopy lifting property for every space \(X\).
-\end{definition}
+
+[](raw: \begin{definition}
+We define lala lala
+
+\end{definition})
