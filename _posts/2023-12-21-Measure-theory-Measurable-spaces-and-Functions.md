@@ -5,11 +5,10 @@ categories: [measure theory]
 tags: [measure theory, measurable functions, measurable spaces, borel sets, sigma algebras] #tags always lowercase
 ---
 
-[](raw: \theoremstyle{definition}
-\newtheorem{definition}{Definition}[section])
+\text{Theorem: Lorem ipsum $\newline$
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."functional }
 
+Theorem: Lorem ipsum $\newline$
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."functional
 
-[](raw: \begin{definition}
-We define lala lala
-
-\end{definition})
+asmansdlk
